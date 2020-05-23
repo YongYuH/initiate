@@ -1,5 +1,5 @@
 export default {
-  pathPrefix: 'initiate', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
+  pathPrefix: '/initiate', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
   siteTitle: 'Yong Yu\'s Blog', // Navigation and Site Title
   siteTitleAlt: 'Yong Yu\'s Blog - Gatsby Starter', // Alternative Site title for SEO
