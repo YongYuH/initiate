@@ -5,12 +5,12 @@ export default {
   siteTitleAlt: 'Yong Yu\'s Blog - Gatsby Starter', // Alternative Site title for SEO
   siteUrl: 'https://yongyuh.github.io/initiate', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
-  defaultBg: '/assets/bg.png', // default post background header
+  siteBanner: '/initiate/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
+  defaultBg: '/initiate/assets/bg.png', // default post background header
   favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
   siteDescription: 'Yong Yu\'s Blog', // Your site description
   author: 'Majid Hajian', // Author for schemaORGJSONLD
-  siteLogo: '/assets/logo.png', // Image for schemaORGJSONLD
+  siteLogo: '/initiate/assets/logo.png', // Image for schemaORGJSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@YongYuHuang', // Twitter Username - Optional

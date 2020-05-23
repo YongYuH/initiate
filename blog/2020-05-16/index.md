@@ -3,7 +3,7 @@ date: "2020-05-16"
 title: "Rearrange an array so that arr[i] becomes arr[arr[i]]"
 category: "Algorithm"
 tags: ['algorithm',  'brute-force', 'geeksforgeeks', 'java']
-banner: "/assets/bg/1.jpg"
+banner: "/initiate/assets/bg/1.jpg"
 ---
 # Rearrange an array so that arr[i] becomes arr[arr[i]]
 

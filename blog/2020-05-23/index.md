@@ -3,7 +3,7 @@ date: "2020-05-23"
 title: "Maximum water that can be stored between two buildings"
 category: "Algorithm"
 tags: ['algorithm',  'brute-force', 'geeksforgeeks', 'java']
-banner: "/assets/bg/1.jpg"
+banner: "/initiate/assets/bg/1.jpg"
 ---
 # Maximum water that can be stored between two buildings
 
