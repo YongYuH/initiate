@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/categories/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/tags/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/tags/brute-force</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/tags/geeksforgeeks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/tags/java</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/blog/maximum-water-that-can-be-stored-between-two-buildings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/blog/rearrange-an-array-so-that-arr-i-becomes-arr-arr-i</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yongyuh.github.io/initiate/initiate/initiate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/categories/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/tags/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/tags/brute-force</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/tags/geeksforgeeks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/tags/java</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/blog/maximum-water-that-can-be-stored-between-two-buildings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/blog/rearrange-an-array-so-that-arr-i-becomes-arr-arr-i</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yongyuh.github.io/initiateinitiate/initiate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
