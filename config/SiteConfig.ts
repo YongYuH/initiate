@@ -1,9 +1,9 @@
 export default {
-  pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
+  pathPrefix: 'initiate', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
   siteTitle: 'Yong Yu\'s Blog', // Navigation and Site Title
   siteTitleAlt: 'Yong Yu\'s Blog - Gatsby Starter', // Alternative Site title for SEO
-  siteUrl: 'https://typescript-power-blog.github.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://yongyuh.github.io/initiate', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
   defaultBg: '/assets/bg.png', // default post background header
